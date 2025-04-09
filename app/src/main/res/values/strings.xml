@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Shree_bhagavad_gita</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_sloka_page">SlokaPageActivity</string>
+    <string name="title_activity_sloka_detail">SlokaDetailActivity</string>
+</resources>
